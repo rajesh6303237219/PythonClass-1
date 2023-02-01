@@ -1,0 +1,11 @@
+# take input from user and end with hii and print 8 times operations
+value=input("enter the name")
+print(value)
+print(" hello", end="hii\n")
+print("hello", end="hii\n")
+print("hello", end="hii\n")
+print("hello", end="hii\n")
+print("hello", end="hii\n")
+print("hello", end="hii\n")
+print("hello", end="hii\n")
+print("hello", end="hii\n")
